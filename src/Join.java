@@ -2,6 +2,6 @@
 public class Join {
 
 	public void join() {
-		System.out.println("ÇãÀå¿íÀÌ´å!!!");
+		System.out.println("ÇãÀå¿í ÀÌ´å!!!");
 	}
 }
