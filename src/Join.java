@@ -2,6 +2,10 @@
 public class Join {
 
 	public void join() {
-		System.out.println("È¸¿ø°¡ÀÔÀ» ÇÕ´Ï´Ù! feature/3");
+
+		System.out.println("íšŒì›ê°€ì…ì„ í•©ë‹ˆë‹¤ feature/3");
+
+		System.out.println("íšŒì›ê°€ì… ì¶”ì¹´í¬ì¹´!!!!");
+
 	}
 }
